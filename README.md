@@ -30,8 +30,11 @@ Download the sample input.csv file and replace the extensiosn ids
 - After execution, you'll get a file named output.csv
 
 ## 🧪 Sample Output Table
-Extension ID	Name	Ratings	Users	Status
-cjpalhdlnbpafiamejdnhcphjbkeiagm	uBlock Origin	4.7	10M+	Scraped
-aapocclcgogkmnckokdopfmhonfmgoek	Unknown	Unknown	Unknown	ScrapeFailed
+
+| Extension ID                             | Name           | Ratings | Users | Status       |
+|------------------------------------------|----------------|---------|-------|--------------|
+| cjpalhdlnbpafiamejdnhcphjbkeiagm         | uBlock Origin  | 4.7     | 10M+  | Scraped      |
+| aapocclcgogkmnckokdopfmhonfmgoek         | Unknown        | Unknown | Unknown | ScrapeFailed |
+
 
 
