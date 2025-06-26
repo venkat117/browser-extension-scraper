@@ -21,13 +21,7 @@ Fetches:
 ## 🛠️ Installation
 
 1. **Clone the repo**
-
-git clone https://github.com/<your-username>//browser-extension-scraper.git
-cd chrome-extension-scraper
-
 2. **Install dependencies**
-
-pip install -r requirements.txt
 
 ## 📥 Usage
 
