@@ -26,8 +26,8 @@ Fetches:
 ## 📥 Usage
 
 Download the sample input.csv file and replace the extensiosn ids
-Run: python scraper.py
-After execution, you'll get a file named output.csv
+- Run: python scraper.py
+- After execution, you'll get a file named output.csv
 
 ## 🧪 Sample Output Table
 Extension ID	Name	Ratings	Users	Status
